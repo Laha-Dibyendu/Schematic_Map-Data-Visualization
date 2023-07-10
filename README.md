@@ -1,5 +1,5 @@
 # Assignment :
-Pick your hometown or a city you are familiar with, and create a schematic map. You can find the slides from the refrence here.
+Pick your hometown or a city you are familiar with, and create a schematic map. You can find the slides from [the refrence here](https://speakerdeck.com/rasagy/designing-schematic-maps).
 
 The audience can be tourists (general, or specific types of attractions like pilgrimage, lakes, etc.), or a specific use case (such as cycling, educational institutes, etc.).
 
@@ -13,11 +13,11 @@ You can follow the following steps for your schematic map:
 * Elements of the city
 * Visual hierarchy
 * Details: Icons, Typography, Legend, Context
-You can see some of the previous schematic map exercises for reference.
+You can see some of the previous [schematic map exercises](https://github.com/mapschool/course/issues?q=label%3A%22Schematic+Map%22+is%3Aclosed) for reference.
 
 # Solution :
 # Schematic_Map-Data-Visualization
- An assignment from the course Data Visualization
+ An assignment from the course Data Visualization. The assignment is made using Figma.
 
 ## Location : 
 #### Katwa, West Bengal
