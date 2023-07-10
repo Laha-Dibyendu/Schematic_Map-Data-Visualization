@@ -20,7 +20,7 @@ You can see some of the previous [schematic map exercises](https://github.com/ma
  An assignment from the course Data Visualization. The assignment is made using Figma.
 
 ## Location : 
-#### Katwa, West Bengal
+#### [Katwa, West Bengal](https://www.google.com/maps/place/Katwa,+West+Bengal/@23.6424019,88.1241386,15.93z/data=!4m6!3m5!1s0x39f9a7245d2881c7:0x39ea528616364624!8m2!3d23.6403783!4d88.1299373!16zL20vMDhzZmhf?entry=ttu)
 
 ## Audience : 
 #### Any people coming to Katwa from nearby villages or other towns.
